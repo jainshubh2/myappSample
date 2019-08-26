@@ -1,4 +1,8 @@
 h1{
     color:violet;
-    align-content: center;
+    text-align: center;
+}
+h2{
+    color:green;
+    text-align: center;
 }
